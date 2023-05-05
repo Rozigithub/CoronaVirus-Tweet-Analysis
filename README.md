@@ -1,4 +1,4 @@
-# CoronaVirus-Tweet-Analysis# Covid-19 Tweet Analysis
+# CoronaVirus-Tweet-Analysis
 <p align="center">
 <img 
      src="https://media.tenor.com/1j3-qb9Y_24AAAAC/covid-19.gif" >
